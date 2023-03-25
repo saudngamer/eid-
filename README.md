@@ -1,4 +1,4 @@
-# eid-<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>بطاقة تهنئة بمناسبة العيد</title>
